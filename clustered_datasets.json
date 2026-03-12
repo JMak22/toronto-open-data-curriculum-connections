@@ -1,0 +1,8848 @@
+[
+  {
+    "title": "Outbreaks in Toronto Healthcare Institutions",
+    "tags": [
+      "communicable disease",
+      "outbreaks",
+      "public health"
+    ],
+    "topics": [
+      "Public safety",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Toronto Bids Solicitations",
+    "tags": [
+      "call documents",
+      "goods and services"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Water Valves",
+    "tags": [
+      "hydrant"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Water Hydrants",
+    "tags": [
+      "hydrant"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Water Fittings",
+    "tags": [
+      "hydrant"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Temporary Extension and Special Occasion Permit Endorsements for Liquor Licences",
+    "tags": [
+      "4am",
+      "Extensions",
+      "Liquor",
+      "Permits",
+      "SOP",
+      "Temporary"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Culture and tourism",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Toronto Island Ferry Ticket Counts",
+    "tags": [
+      "Ferry"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Licensed Dogs and Cats",
+    "tags": [
+      "animals",
+      "licences",
+      "pets"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Road Reconstruction Program",
+    "tags": [
+      "road reconstruction"
+    ],
+    "topics": [
+      "Transportation",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Road Resurfacing Program",
+    "tags": [
+      "road resurfacing"
+    ],
+    "topics": [
+      "Transportation",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Rain Gauge Locations and Precipitation",
+    "tags": [
+      "precipitation",
+      "rain gauge"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Sidewalk Construction Program",
+    "tags": [
+      "missingsidewalk",
+      "sidewalk",
+      "sidewalkprogram",
+      "torontosidewalk"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Polls conducted by the City",
+    "tags": [
+      "city polls",
+      "opinions",
+      "polling"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Traffic Signal Timing",
+    "tags": [],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Daily Shelter & Overnight Service Occupancy & Capacity",
+    "tags": [
+      "shelter"
+    ],
+    "topics": [
+      "City government",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Traffic Volumes - Midblock Vehicle Speed, Volume and Classification Counts",
+    "tags": [
+      "atr",
+      "traffic-speed",
+      "traffic-volume",
+      "truck-volume",
+      "vehicle-classification"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Historical Toronto Police Operating Budget",
+    "tags": [
+      "budget",
+      "finance",
+      "money",
+      "police"
+    ],
+    "topics": [
+      "Public safety",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Community Safety Indicators",
+    "tags": [
+      "tag"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Neighbourhood Crime Rates",
+    "tags": [
+      "assault",
+      "break and enter",
+      "census",
+      "crime",
+      "homicide",
+      "neighbourhood",
+      "robbery",
+      "theft"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Theft from Motor Vehicle",
+    "tags": [],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Police Annual Statistical Report - Traffic Collisions",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Persons in Crisis Calls for Service Attended",
+    "tags": [
+      "PIC"
+    ],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Mental Health Act Apprehensions",
+    "tags": [
+      "tag"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Bicycle Thefts",
+    "tags": [
+      "Bicycle",
+      "Bike",
+      "Saftey",
+      "Theft",
+      "crime",
+      "police"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Shootings & Firearm Discharges",
+    "tags": [],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Homicides",
+    "tags": [
+      "Homicide",
+      "Killing",
+      "Police",
+      "crime"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Hate Crimes",
+    "tags": [],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Intimate Partner and Family Violence",
+    "tags": [
+      "abuse",
+      "domestic"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Police Annual Statistical Report - Shooting Occurrences",
+    "tags": [],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Regulated Interactions Demographics",
+    "tags": [],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Field Information Reports",
+    "tags": [],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Patrol Zones",
+    "tags": [],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Victims of Crimes",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Regulated Interactions",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Search of Persons",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Reported Crimes",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Complaint Dispositions",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Investigated Alleged Misconduct",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Total Public Complaints",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Gross Operating Budget",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Personnel by Rank by Division",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Personnel by Rank",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Miscellaneous Firearms",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Top 20 Offences of Firearms Seizures",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Tickets Issued",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Arrested and Charged Persons",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Calls for Service Attended",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Miscellaneous Calls for Service",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Administrative",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Race and Identity Based Data - Arrests and Strip Searches",
+    "tags": [
+      "arrests",
+      "ethnicity",
+      "race",
+      "rbdc",
+      "strip search",
+      "strip searches"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Race and Identity Based Data - Use of Force",
+    "tags": [
+      "ethnicity",
+      "race",
+      "rbdc",
+      "use of force"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Dispatched Calls by Division",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Firearms Top 5 Calibres",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Gross Expenditures by Division",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Miscellaneous Data",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Annual Statistical Report - Personnel by Command",
+    "tags": [
+      "Annual Statistical Report"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Motor Vehicle Collisions Involving Killed or Seriously Injured Persons",
+    "tags": [
+      "Accidents",
+      "Kill",
+      "Traffic",
+      "death"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Toronto Open Data Intake",
+    "tags": [
+      "queue"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Short Term Rentals Registration",
+    "tags": [],
+    "topics": [
+      "Culture and tourism",
+      "Business",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Highrise Residential Fire Inspection Results",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Community services",
+      "Public safety",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Address Points (Municipal) - Toronto One Address Repository",
+    "tags": [
+      "address",
+      "toronto addresses"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Building Permits - Cleared Permits",
+    "tags": [
+      "building permit",
+      "cleared permit"
+    ],
+    "topics": [
+      "Permits and licenses",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Building Construction/Demolition Violations",
+    "tags": [
+      "building permit",
+      "cleared permit"
+    ],
+    "topics": [],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Building Permits - Active Permits",
+    "tags": [
+      "building application",
+      "building permit"
+    ],
+    "topics": [
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Preliminary Zoning Reviews",
+    "tags": [
+      "building application",
+      "building permit"
+    ],
+    "topics": [
+      "Permits and licenses",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Committee of Adjustment Applications",
+    "tags": [
+      "committee of adjustment"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "settlement_patterns"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Apartment Building Evaluation",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Business"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Intersection File - City of Toronto",
+    "tags": [
+      "intersections"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Development Applications",
+    "tags": [],
+    "topics": [
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "BodySafe",
+    "tags": [
+      "aesthetic",
+      "barber",
+      "body piercing",
+      "body safe",
+      "ear piercing",
+      "electrolysis",
+      "hair salon",
+      "inspection notice",
+      "manicure",
+      "micropigmentation",
+      "pedicure",
+      "salon",
+      "tattoo"
+    ],
+    "topics": [
+      "City government",
+      "Public safety",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Non Regulated Lead Sample",
+    "tags": [
+      "lead pipes",
+      "non-regulated lead sample",
+      "water testing"
+    ],
+    "topics": [
+      "Public safety",
+      "Environment",
+      "Water"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Municipal Licensing and Standards - Business Licences and Permits",
+    "tags": [
+      "busincess licence",
+      "business permit"
+    ],
+    "topics": [
+      "Business",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Red Light Cameras",
+    "tags": [
+      "red light",
+      "red light camera",
+      "traffic camera"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Tennis Courts Facilities",
+    "tags": [
+      "tennis court",
+      "tennis facility"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Property Boundaries",
+    "tags": [
+      "property boundary"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "EarlyON Child and Family Centres",
+    "tags": [
+      "earlyon child and family centre",
+      "family resource program",
+      "ontario early years centre",
+      "parenting and family literacy centre"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Street Furniture - Bicycle Parking - Bicycle Locking Ring",
+    "tags": [],
+    "topics": [
+      "Transportation",
+      "Health"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Toronto's Dashboard Key Indicators",
+    "tags": [
+      "City Services",
+      "Community Vulnerability",
+      "Construction",
+      "Development",
+      "Economy",
+      "Revenues"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Traffic Volumes - Multimodal Intersection Turning Movement Counts",
+    "tags": [
+      "turns"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Festivals & Events",
+    "tags": [
+      "events",
+      "festivals"
+    ],
+    "topics": [
+      "Culture and tourism"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Toronto Open Data Quality Scores",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Municipal Licensing and Standards - Investigation Activity",
+    "tags": [
+      "by-law enforcement",
+      "property standards",
+      "property violation"
+    ],
+    "topics": [
+      "City government",
+      "Public safety",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Lobbyist Registry",
+    "tags": [
+      "lobbying",
+      "lobbyist",
+      "lobbyist registry"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Park Washroom Facilities",
+    "tags": [
+      "bathrooms",
+      "washrooms"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Toronto Centreline (TCL)",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Members of Toronto City Council - Meeting Attendance",
+    "tags": [
+      "city coucil",
+      "council meeting attendance"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Licensed Child Care Centres",
+    "tags": [],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Sewer Maintenance Holes",
+    "tags": [
+      "sewage"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Sewer Gravity Mains",
+    "tags": [
+      "sewage"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Sewer Outfalls",
+    "tags": [
+      "sewage"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Sewer Inlets",
+    "tags": [
+      "sewage"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Watermains",
+    "tags": [
+      "hydrant"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Surface Routes and Schedules for BusTime",
+    "tags": [],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Toronto Bids Non-Competitive Contracts",
+    "tags": [],
+    "topics": [
+      "Business"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Toronto Bids Awarded Contracts",
+    "tags": [],
+    "topics": [
+      "Business"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Multi-Tenant (Rooming) House Licences",
+    "tags": [
+      "housing",
+      "licence",
+      "multi-tenant",
+      "rooming"
+    ],
+    "topics": [
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Noise Exemption Permits",
+    "tags": [
+      "allowed",
+      "disturbance",
+      "event",
+      "exemption",
+      "licence",
+      "loud",
+      "noise",
+      "permission",
+      "permit"
+    ],
+    "topics": [
+      "Business"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Green Spaces",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Deaths of People Experiencing Homelessness (Archival)",
+    "tags": [
+      "death",
+      "deaths",
+      "homeless",
+      "homelessness"
+    ],
+    "topics": [
+      "Community services",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Deaths of People Experiencing Homelessness",
+    "tags": [
+      "death",
+      "deaths",
+      "homeless",
+      "homelessness"
+    ],
+    "topics": [
+      "City government",
+      "Community services",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Automated Speed Enforcement (ASE) Charges",
+    "tags": [
+      "charges",
+      "speed",
+      "tickets",
+      "traffic"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Sewer Junctions",
+    "tags": [
+      "sewage"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Water Pressure Districts",
+    "tags": [
+      "hydrant"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Topographic Mapping - Waterbodies & Rivers",
+    "tags": [],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Topographic Mapping \u2013 Physical location of trees",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Short Term Rental Registration & Enforcement overview",
+    "tags": [
+      "airbnb"
+    ],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "City of Toronto Free Public WiFi",
+    "tags": [
+      "Internet",
+      "WiFi"
+    ],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Fatal and non-fatal suspected opioid overdoses in the shelter system",
+    "tags": [
+      "addiction",
+      "drug",
+      "overdose"
+    ],
+    "topics": [
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Sewer Pressurized Mains",
+    "tags": [
+      "sewage"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Building Permits - Pool Enclosures",
+    "tags": [
+      "building permit",
+      "pool",
+      "pool enclosure",
+      "pool permit"
+    ],
+    "topics": [
+      "Permits and licenses",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Building Permits - Solar Hot Water Heaters",
+    "tags": [
+      "permits",
+      "solar",
+      "water heater"
+    ],
+    "topics": [
+      "Permits and licenses",
+      "Water"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "resource_use_sustainability",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Building Permits - Signs",
+    "tags": [
+      "building permit",
+      "sign application",
+      "signs"
+    ],
+    "topics": [
+      "Permits and licenses",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Registry of Dogs Subject to and Issued a Dangerous Dog Order",
+    "tags": [
+      "attack",
+      "bite"
+    ],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Building Permits - Green Roofs",
+    "tags": [
+      "building permit",
+      "green roof"
+    ],
+    "topics": [
+      "Permits and licenses",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Light duty city vehicle utilization data",
+    "tags": [
+      "Fleet",
+      "Light-Duty",
+      "Underutilization",
+      "Utilization",
+      "Vehicles"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Residential Front Yard Parking",
+    "tags": [
+      "front yard parking",
+      "parking spot"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "311 Service Requests - Customer Initiated",
+    "tags": [
+      "311",
+      "complaints",
+      "curb side",
+      "customer initiated",
+      "garbage",
+      "garbage collection",
+      "graffiti",
+      "pot holes",
+      "service requests"
+    ],
+    "topics": [
+      "City government",
+      "Parks and recreation",
+      "Permits and licenses",
+      "Water",
+      "Garbage and recycling"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Web Analytics",
+    "tags": [
+      "internet",
+      "statistics",
+      "web analytics"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Members of Toronto City Council - Voting Record",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "TTC Routes and Schedules",
+    "tags": [
+      "routes",
+      "schedules",
+      "ttc"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Park and Recreation Facility Projects",
+    "tags": [
+      "parks"
+    ],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Utility Cut Permits",
+    "tags": [
+      "permit",
+      "utility cut"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Permits and licenses",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Small Business Property Tax Subclass: Eligible Properties",
+    "tags": [],
+    "topics": [],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Registered Programs and Drop In Courses Offering",
+    "tags": [
+      "drop in",
+      "drop-in program",
+      "parks and rec",
+      "rec programs",
+      "recreation"
+    ],
+    "topics": [
+      "Community services",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Heritage Register",
+    "tags": [
+      "buildings",
+      "designated",
+      "heritage",
+      "historical"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Solid Waste Collection Schedule",
+    "tags": [
+      "garbage pickup schedule",
+      "garbage schedule",
+      "pickup schedule",
+      "waste pickup schedule"
+    ],
+    "topics": [
+      "Community services",
+      "Garbage and recycling"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Mobile Watch Your Speed Program \u2013 Speed Summary",
+    "tags": [
+      "Vision zero",
+      "driver",
+      "safety",
+      "speed"
+    ],
+    "topics": [
+      "Transportation",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Safety Zone Watch Your Speed Program \u2013 Monthly Summary",
+    "tags": [],
+    "topics": [
+      "Transportation",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "School Safety Zone Watch Your Speed Program \u2013 Locations",
+    "tags": [
+      "LED",
+      "Vision zero",
+      "driver",
+      "radar",
+      "saftey",
+      "speed"
+    ],
+    "topics": [
+      "Transportation",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Apartment Building Registration",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Business",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Report Request Log \u2013 City Council and its Committees",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Parks Drinking Water Sources",
+    "tags": [
+      "drinking fountain",
+      "water fountain"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "City Council and Committees Meeting Schedule Reports",
+    "tags": [
+      "city council",
+      "council meeting",
+      "council schedule"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Clothing Drop-Box Locations",
+    "tags": [
+      "clothing drop box"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Heritage Conservation Districts",
+    "tags": [
+      "buildings",
+      "conservation",
+      "heritage",
+      "historical"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Real Estate Asset Inventory",
+    "tags": [
+      "property"
+    ],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Budget - Operating Budget Program Summary by Expenditure Category",
+    "tags": [
+      "budget",
+      "operating budget"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Toronto Animal Services - Service Requests & Complaints",
+    "tags": [
+      "animals",
+      "complaints",
+      "pets",
+      "requests"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Parks and Recreation Facilities",
+    "tags": [
+      "parks and recreation",
+      "recreation centre",
+      "recreation facility"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Toronto Signature Sites",
+    "tags": [
+      "property"
+    ],
+    "topics": [
+      "Business"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Stillbirth Registration Statistics",
+    "tags": [
+      "stillbirth registrations",
+      "stillborn"
+    ],
+    "topics": [
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Death Registry Statistics",
+    "tags": [
+      "death registry"
+    ],
+    "topics": [
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Marriage Licence Statistics",
+    "tags": [
+      "marriage licence"
+    ],
+    "topics": [
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Municipal Licensing and Standards - Toronto Animal Shelter Activity",
+    "tags": [
+      "animal services",
+      "animal shelter"
+    ],
+    "topics": [
+      "City government",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Open Data Portal Usage",
+    "tags": [
+      "analytics",
+      "open data",
+      "statistics",
+      "usage",
+      "web analytics"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Traffic Signals Tabular",
+    "tags": [
+      "flashing beacons",
+      "intersections",
+      "pedestrian crossover",
+      "traffic signals"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Library Branch Programs and Events Feed",
+    "tags": [
+      "library",
+      "tpl"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Bike Share Toronto Ridership Data",
+    "tags": [],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Area Speed Limit Reductions",
+    "tags": [
+      "traffic"
+    ],
+    "topics": [
+      "Transportation",
+      "Environment"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "TTC Bus Delay Data",
+    "tags": [],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "TTC Subway Delay Data",
+    "tags": [],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "TTC Streetcar Delay Data",
+    "tags": [],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "TTC LRT Delay Data",
+    "tags": [],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Fire Hydrants",
+    "tags": [
+      "fire",
+      "fire hydrants"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Public safety",
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Wellbeing Youth - Adult Education Upgrading",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Affordable Housing Access",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Alternative Adult Education",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Wellbeing Youth - Concurrent Disorder Programs",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Disability Supports Services",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "land_use_development",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Wellbeing Youth - Sexual Health Services",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Wellbeing Youth - Housing Eviction Help",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Legal Justice Support",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Legal Support Advocacy",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Life Skills Training",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Newcomer Settlement Services",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "City government",
+      "Community services",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Substance Use Treatment",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth- Aboriginal Youth Services",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Educational Support",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Employment Resources",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Financial Services",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Health Services",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Wellbeing Youth - LGBTQ Resources",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Mental Health",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Parenting Programs",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Youth - Recreation",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Wellbeing Youth - Refugee Housing",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Wellbeing Youth - Transitional Housing",
+    "tags": [
+      "toronto"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Registry of Declared Interest",
+    "tags": [
+      "city council",
+      "conflict of interest",
+      "declared interest",
+      "member of council"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Fire Services Emergency Incident Basic Detail",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Community services",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Transport Bus Initiative Usage",
+    "tags": [
+      "homelessness",
+      "shelter",
+      "transportation",
+      "warming",
+      "winter"
+    ],
+    "topics": [
+      "Community services",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "SolarTO",
+    "tags": [
+      "solar"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services",
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Subsidized Housing Listings",
+    "tags": [
+      "affordable housing",
+      "subsidy"
+    ],
+    "topics": [],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Community Benefits Secured (Planning Act Sections 37 and 45)",
+    "tags": [
+      "benefits"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Current and Future Climate",
+    "tags": [
+      "adaptation",
+      "climate",
+      "climate change",
+      "cooling",
+      "flood",
+      "precipitation",
+      "resilience",
+      "storm",
+      "weather"
+    ],
+    "topics": [
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Library Visits",
+    "tags": [
+      "library",
+      "tpl"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Library Branch Space Rentals",
+    "tags": [
+      "library",
+      "tpl"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Library Circulation by Cardholder Type",
+    "tags": [
+      "library",
+      "tpl"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Basement Flooding Study Areas",
+    "tags": [
+      "sewage"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Bicycle and Micromobility Cordon Count",
+    "tags": [
+      "bicycle",
+      "cordon",
+      "cycling",
+      "micromobility"
+    ],
+    "topics": [
+      "Transportation",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Bicycle Cordon Count: 2010, 2013, 2014",
+    "tags": [
+      "cycling",
+      "micromobility"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "The City Operated Electric Vehicle Charging Station Map",
+    "tags": [],
+    "topics": [
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Park and Recreation Facility Study Areas",
+    "tags": [
+      "parks"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Parks and recreation",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Topographic Mapping - Water Line",
+    "tags": [
+      "GIS",
+      "Rivers",
+      "Topo",
+      "TopographicMapping",
+      "Waterbodies"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Topographic Mapping - Railway",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Green Streets",
+    "tags": [
+      "Green",
+      "LID"
+    ],
+    "topics": [
+      "Transportation",
+      "Environment",
+      "Water"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Litter Bin Collection Frequency",
+    "tags": [
+      "SWMS",
+      "collections",
+      "garbage",
+      "litter"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Garbage and recycling"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "StrollTO",
+    "tags": [
+      "itinerary",
+      "self-guided",
+      "stroll",
+      "strollto",
+      "tour",
+      "walking"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Culture and tourism",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "settlement_patterns"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Cycling Network",
+    "tags": [
+      "bicycle lane",
+      "bicycle path",
+      "bicycle route",
+      "bike lane",
+      "bike pathway",
+      "bike route",
+      "bike trail",
+      "bikeway network"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Off Leash Areas",
+    "tags": [
+      "commercial",
+      "dogs",
+      "off-leash",
+      "walker"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Parks and recreation",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Street Furniture - Automated Public Washroom",
+    "tags": [
+      "automated public toilet",
+      "automated public washroom",
+      "public washroom",
+      "washroom"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Transportation",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "COVID-19 Immunization Clinics",
+    "tags": [],
+    "topics": [
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "COVID-19 Testing Sites",
+    "tags": [
+      "assessment centres",
+      "covid19"
+    ],
+    "topics": [
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Imagination, Manufacturing, Innovation and Technology (IMIT) Program Recipients",
+    "tags": [],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Bicycle Parking Racks",
+    "tags": [
+      "bicycle",
+      "bicycle parking",
+      "bike",
+      "bike parking"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Public Art",
+    "tags": [
+      "art",
+      "monuments",
+      "planning",
+      "public"
+    ],
+    "topics": [
+      "Culture and tourism"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Zoning By-law",
+    "tags": [
+      "city-wide by-law",
+      "development",
+      "mapping",
+      "zoning"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "settlement_patterns"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Blacklegged Tick Surveillance",
+    "tags": [
+      "Disease",
+      "Health",
+      "Lyme Disease",
+      "Parks",
+      "Surveillance",
+      "Ticks"
+    ],
+    "topics": [
+      "Health",
+      "Environment",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Community Council Boundaries",
+    "tags": [
+      "community council boundary"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Archaeological Potential - Interim",
+    "tags": [
+      "archaeological potential",
+      "archaeology"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Toronto Fire Services Run Areas",
+    "tags": [
+      "fire station",
+      "first in",
+      "run area",
+      "toronto fire services"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Sign Bylaw Districts",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Environmentally Significant Areas",
+    "tags": [
+      "land use",
+      "offical plan"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Environment"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Outdoor Artificial Ice Rinks",
+    "tags": [
+      "ice rink",
+      "outdoor ice rink"
+    ],
+    "topics": [
+      "Parks and recreation"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Indoor Ice Rinks",
+    "tags": [
+      "ice rink",
+      "indoor ice rink"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Traffic Control Devices",
+    "tags": [
+      "pedestrian crossover",
+      "traffic control devices",
+      "traffic signals"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Topographic Mapping \u2013 Edge of Road",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Topographic Mapping \u2013 Physical area of sidewalks",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Topographic Mapping - Poles",
+    "tags": [],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Pedestrian Network",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Transportation",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Cultural Hotspot - Points of Interest",
+    "tags": [
+      "culture",
+      "events",
+      "hotspot",
+      "points of interest"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Fire Facility Locations",
+    "tags": [
+      "fire stations"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Library Card Registrations",
+    "tags": [
+      "library card registrations",
+      "toronto public library"
+    ],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Library Workstation Usage",
+    "tags": [
+      "library",
+      "tpl"
+    ],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Library Circulation",
+    "tags": [
+      "library circulation",
+      "toronto public library"
+    ],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Library Branch General Information",
+    "tags": [
+      "library",
+      "tpl"
+    ],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "MBNCanada Performance Measures",
+    "tags": [
+      "benchmark",
+      "kpis",
+      "mbncanada",
+      "metrics",
+      "performance"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Doors Open Toronto 2016",
+    "tags": [
+      "doors open"
+    ],
+    "topics": [
+      "Culture and tourism"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Doors Open Toronto 2017",
+    "tags": [
+      "doors open"
+    ],
+    "topics": [
+      "Culture and tourism"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Doors Open Toronto 2018",
+    "tags": [
+      "doorsopen"
+    ],
+    "topics": [
+      "Culture and tourism"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Councillors' Constituency Services & Office Expense Reporting",
+    "tags": [
+      "council budget",
+      "council expense",
+      "council office expense",
+      "council spending"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Metadata Catalog",
+    "tags": [],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Toronto Police Staffing by Command",
+    "tags": [],
+    "topics": [
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Toronto Police Budget By Command",
+    "tags": [],
+    "topics": [
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Topographic Mapping \u2013 Physical area of parking lots",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Annual Summary of Reportable Communicable Diseases",
+    "tags": [
+      "communicable disease",
+      "epidemiology",
+      "healthcare",
+      "surveillance"
+    ],
+    "topics": [
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Business Incubation",
+    "tags": [
+      "business incubation"
+    ],
+    "topics": [
+      "Business"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "King St. Transit Pilot - 2015 King Street Traffic Counts",
+    "tags": [
+      "king st pilot",
+      "traffic",
+      "transportation"
+    ],
+    "topics": [
+      "City government",
+      "Transportation",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "King St. Transit Pilot - Bluetooth Travel Time Summary",
+    "tags": [
+      "king st pilot",
+      "traffic",
+      "transportation"
+    ],
+    "topics": [
+      "City government",
+      "Transportation",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "King St. Transit Pilot - Traffic & Pedestrian Volumes Summary",
+    "tags": [
+      "king st pilot",
+      "traffic",
+      "transportation"
+    ],
+    "topics": [
+      "City government",
+      "Transportation",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Transportation Innovation Zones - Stakeholder Workshops Results",
+    "tags": [
+      "Innovation",
+      "Transportation",
+      "survey"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Air Conditioned Public Places & Cooling Centres",
+    "tags": [
+      "air condition",
+      "cooling centre"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Civic Issue Campaign Results",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Neighbourhood Profiles",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Daily Shelter Occupancy",
+    "tags": [
+      "homeless",
+      "occupancy",
+      "shelter",
+      "support",
+      "vacancy"
+    ],
+    "topics": [
+      "City government",
+      "Community services",
+      "Public safety",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "COVID-19 Cases in Toronto",
+    "tags": [
+      "covid19",
+      "health",
+      "pandemic"
+    ],
+    "topics": [
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Elections Subdivisions",
+    "tags": [
+      "elections",
+      "voting subdivisions"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Elections Voting Locations",
+    "tags": [
+      "voting locations"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Neighbourhoods",
+    "tags": [
+      "neighbourhood"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "settlement_patterns"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "On-Street Permit Parking Area Maps",
+    "tags": [
+      "maps",
+      "on-street",
+      "parking",
+      "permit"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Places of Worship",
+    "tags": [
+      "ashram",
+      "church",
+      "mosque",
+      "religion",
+      "religious location",
+      "synagogue",
+      "temple"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Police Facility Locations",
+    "tags": [
+      "police facility",
+      "police station"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Renewable Energy Installations",
+    "tags": [
+      "building",
+      "city of toronto",
+      "installations",
+      "renewable energy"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Retirement Homes",
+    "tags": [
+      "retirement home",
+      "senior home"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Street Tree Data",
+    "tags": [
+      "street tree data",
+      "tree locations"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Environment",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Former Municipality Boundaries",
+    "tags": [
+      "former municipal boundaries",
+      "pre-amalgamation"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Places of Interest and Toronto Attractions",
+    "tags": [
+      "attractions",
+      "beach",
+      "convention",
+      "entertainment",
+      "museum",
+      "park",
+      "places of interest",
+      "shopping",
+      "tourism",
+      "trade center",
+      "venue",
+      "visitors"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Culture and tourism",
+      "Business"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Ambulance Station Locations",
+    "tags": [
+      "ambulance",
+      "ambulance location",
+      "paramedic"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Public safety",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Toronto Community Housing Data",
+    "tags": [
+      "community housing",
+      "tchc"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Council and Standing Committee Meeting Statistics",
+    "tags": [
+      "council",
+      "standing committee meeting"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Neighbourhood Improvement Areas",
+    "tags": [
+      "map",
+      "neighbourhood",
+      "nia",
+      "priority areas"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Proclamations",
+    "tags": [
+      "ceremonial",
+      "mayors office",
+      "protocol services"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Bicycle Parking - Bike Stations (Indoor)",
+    "tags": [
+      "bicycle parking",
+      "bike racks",
+      "bike stations",
+      "cycling"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Bicycle Parking - High Capacity (Outdoor)",
+    "tags": [
+      "bicycle parking",
+      "bike racks",
+      "bike stations",
+      "cycling"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Bicycle Shops",
+    "tags": [
+      "bike shops",
+      "bike stores",
+      "biking",
+      "cycling"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation",
+      "Business"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "City Wards",
+    "tags": [
+      "city wards"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Toronto Beaches Observations",
+    "tags": [
+      "beaches",
+      "fowl",
+      "temperature",
+      "turbidity",
+      "wave",
+      "waves"
+    ],
+    "topics": [
+      "Public safety",
+      "Health",
+      "Environment",
+      "Water"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Cultural Festivals Funding Program recipients",
+    "tags": [
+      "culture grants",
+      "festivals funding"
+    ],
+    "topics": [
+      "Culture and tourism"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "PollinateTO Primary Project Garden Locations",
+    "tags": [
+      "PollinateTO",
+      "gardens",
+      "habitat",
+      "parks",
+      "pollinators",
+      "schools"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Environment",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Presto Card Access",
+    "tags": [
+      "transit"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Parking Occupancy",
+    "tags": [
+      "lots"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Update Downsview",
+    "tags": [
+      "planning"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Secondary Plans",
+    "tags": [
+      "development",
+      "planning",
+      "secondary plans"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Site and area Specific policies",
+    "tags": [
+      "city planning",
+      "official plan",
+      "planning",
+      "site area and specific policy"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Immunization Coverage for students",
+    "tags": [
+      "coverage",
+      "exemption",
+      "health",
+      "schools",
+      "vaccination",
+      "vaccine"
+    ],
+    "topics": [
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Wards and Elected Councillors",
+    "tags": [
+      "councillors",
+      "wards councillors"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Elected Officials' Contact Information",
+    "tags": [
+      "concillor contact information",
+      "councillors"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Dinesafe",
+    "tags": [],
+    "topics": [
+      "Public safety",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Air Conditioned and Cool Spaces (Heat Relief Network)",
+    "tags": [],
+    "topics": [
+      "Community services",
+      "Health",
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Active Affordable and Social Housing Units",
+    "tags": [
+      "Affordable",
+      "Community",
+      "Housing",
+      "RGI",
+      "Rent-geared-to-income",
+      "Social",
+      "Subsidized"
+    ],
+    "topics": [],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Traffic Cameras",
+    "tags": [
+      "traffic camera"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Tenant Notification for Rent Reduction",
+    "tags": [
+      "landlords",
+      "property tax",
+      "rent",
+      "rent reduction",
+      "tenants"
+    ],
+    "topics": [
+      "City government",
+      "Community services",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Permanent Bicycle Counters",
+    "tags": [
+      "activeto",
+      "bike",
+      "biking",
+      "cycling",
+      "micromobility",
+      "multimodal"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Development Pipeline",
+    "tags": [
+      "construction"
+    ],
+    "topics": [
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Toronto Police Budget",
+    "tags": [],
+    "topics": [
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Chemical Tracking (ChemTrac)",
+    "tags": [
+      "air contaminant",
+      "chemical tracking",
+      "chemtrac",
+      "priority substance"
+    ],
+    "topics": [
+      "Public safety",
+      "Health",
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Caf\u00e9TO Locations",
+    "tags": [
+      "cafeto"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation",
+      "Business"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Street Furniture - Information Pillar-Wayfinding Structure",
+    "tags": [
+      "information pillar",
+      "pedestrian wayfinding",
+      "wayfinding structure"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Transportation",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Street Furniture - Bench",
+    "tags": [
+      "bench",
+      "pedestrian seating",
+      "seating"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Transportation",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Street Furniture - Poster Board",
+    "tags": [
+      "poster board",
+      "postering"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Transportation",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Street Furniture - Litter Receptacle",
+    "tags": [
+      "litter bin",
+      "litter receptacle",
+      "waste receptacle"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Transportation",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "environmental_impact_of_settlement"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Street Furniture - Poster Structure",
+    "tags": [
+      "poster column",
+      "poster structure",
+      "postering"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Transportation",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Street Furniture - Publication Structure",
+    "tags": [
+      "publication corral",
+      "publication kiosk",
+      "publication structure"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Transportation",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Street Furniture - Transit Shelter",
+    "tags": [
+      "bus shelter",
+      "transit shelter",
+      "ttc shelter"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Transportation",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Topographic Mapping \u2013 Building Outlines",
+    "tags": [
+      "Buildings",
+      "GIS",
+      "Topo",
+      "TopographicMapping"
+    ],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Fire Incidents",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Community services",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Toronto Beaches Water Quality",
+    "tags": [
+      "beaches",
+      "water quality"
+    ],
+    "topics": [
+      "Public safety",
+      "Health",
+      "Environment",
+      "Water"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Business Improvement Areas",
+    "tags": [
+      "bia",
+      "business improvement area"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Business"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Automated Speed Enforcement Locations",
+    "tags": [
+      "driving",
+      "enforcement",
+      "speed"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Affordable Housing Pipeline",
+    "tags": [
+      "Affordable",
+      "Housing",
+      "data",
+      "development",
+      "map",
+      "pipeline",
+      "rental",
+      "rentals",
+      "upcoming"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Central Intake calls",
+    "tags": [
+      "shelter"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Traffic Calming Database",
+    "tags": [
+      "speed bumps"
+    ],
+    "topics": [],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "TPS Police Divisions",
+    "tags": [
+      "police division",
+      "toronto police service"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Police Boundaries",
+    "tags": [
+      "police division",
+      "toronto police service"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Properties Requiring a Cultural Heritage Evaluation Report Under OPA 720",
+    "tags": [
+      "Buildings"
+    ],
+    "topics": [
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Bridge Structures",
+    "tags": [
+      "bridges",
+      "culverts",
+      "elevated roadways"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Demolition and Replacement of Rental Housing Units",
+    "tags": [
+      "Affordable",
+      "Housing",
+      "demolition",
+      "planning",
+      "rental",
+      "replacement",
+      "severance",
+      "units"
+    ],
+    "topics": [],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Centralized Waiting List Activity for Social Housing",
+    "tags": [
+      "Housing",
+      "Rent-geared-to-income",
+      "Social",
+      "Subsidized",
+      "Waitlist",
+      "access",
+      "application",
+      "apply"
+    ],
+    "topics": [
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Deaths of Shelter Residents",
+    "tags": [
+      "homelessness",
+      "shelter"
+    ],
+    "topics": [
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "City Vehicle Availability",
+    "tags": [
+      "availability",
+      "class",
+      "fleet",
+      "maintenance",
+      "make",
+      "model",
+      "unit_type"
+    ],
+    "topics": [
+      "Business"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Toronto Shelter System Flow",
+    "tags": [
+      "affordable housing",
+      "homeless",
+      "intake",
+      "shelters"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "School Locations - All Types",
+    "tags": [
+      "private schools",
+      "public schools",
+      "schools"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Toronto District School Board Locations",
+    "tags": [
+      "school locations",
+      "schools",
+      "toronto distriction school board"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "TCDSB - Schools",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Community services",
+      "Transportation",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems",
+      "land_use_development",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Labour Force Survey",
+    "tags": [
+      "labour force survey"
+    ],
+    "topics": [
+      "Business"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Cost of Living in Toronto for Low-Income Households",
+    "tags": [],
+    "topics": [],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Monthly Communicable Disease Surveillance Data",
+    "tags": [
+      "communicable disease",
+      "public health",
+      "surveillance"
+    ],
+    "topics": [
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Merged GTFS - TTC Routes and Schedules",
+    "tags": [],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Minister-Approved Major Transit Station Areas",
+    "tags": [],
+    "topics": [
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Red Light Camera Annual Charges",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Transportation",
+      "Public safety",
+      "Business"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Budget - Capital Budget & Plan By Ward (10 yr Approved)",
+    "tags": [
+      "budget",
+      "capital budget"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "311 Contact Centre Performance Metrics",
+    "tags": [
+      "311",
+      "performance metrics"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "3D Massing",
+    "tags": [
+      "3d",
+      "3d buildings",
+      "massing",
+      "model",
+      "urban design"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "PCard Expenditures",
+    "tags": [
+      "council spending",
+      "pcard"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Annual Energy Consumption [City Owned/Operated Buildings]",
+    "tags": [
+      "consumption",
+      "energy",
+      "energy consumption"
+    ],
+    "topics": [
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Toronto Employment Survey Summary Tables",
+    "tags": [
+      "employment",
+      "jobs",
+      "toronto employment survey"
+    ],
+    "topics": [
+      "Business",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Topographic Mapping \u2013 Impermeable Surface",
+    "tags": [
+      "impermeability",
+      "impervious surface",
+      "permeability",
+      "pervious surface"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Environment",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "HousingTO Action Plan",
+    "tags": [],
+    "topics": [
+      "Community services",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Elections - By-Election Voter Statistics",
+    "tags": [
+      "by-election",
+      "voter statistics"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "TTC GTFS-Realtime (GTFS-RT)",
+    "tags": [],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Green P Parking",
+    "tags": [
+      "green p",
+      "parking"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Community Referrals by EMS (CREMS)",
+    "tags": [
+      "ambulance",
+      "paramedic"
+    ],
+    "topics": [
+      "Public safety",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Elections - Official By-Election Results",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Paramedic Services 911 Language Interpretation",
+    "tags": [
+      "dispatcher",
+      "emergency",
+      "language",
+      "language services",
+      "paramedic",
+      "translation services"
+    ],
+    "topics": [
+      "Public safety",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "TTC Real-Time Next Vehicle Arrival (NVAS)",
+    "tags": [
+      "real-time next vehicle",
+      "streetcar",
+      "ttc",
+      "ttc bus"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Financial Information Return - Revenues (Schedule 10) and Expenses (Schedule 40)",
+    "tags": [],
+    "topics": [
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Heritage Formerly Listed",
+    "tags": [],
+    "topics": [
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Paramedic Services Incident Data",
+    "tags": [
+      "ambulance",
+      "emergency medical services",
+      "paramedic"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Poverty Reduction Strategy Consultation - Qualitative Input",
+    "tags": [
+      "inequality",
+      "low income",
+      "poverty",
+      "poverty reduction strategy"
+    ],
+    "topics": [
+      "City government",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Toronto - Demographics",
+    "tags": [
+      "demographic",
+      "population"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Wellbeing Toronto - Civics & Equity Indicators",
+    "tags": [
+      "city beautification",
+      "diversity index",
+      "equity",
+      "wellbeing toronto"
+    ],
+    "topics": [
+      "City government",
+      "Community services",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability",
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Toronto - Culture",
+    "tags": [
+      "cultural location index",
+      "linguistic diversity"
+    ],
+    "topics": [
+      "City government",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "TTC Ridership - All Day Weekday for Surface Routes",
+    "tags": [
+      "ridership",
+      "ttc",
+      "ttc weekday ridership"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Licensed Dog and Cat Names",
+    "tags": [
+      "animals",
+      "cat names",
+      "cats",
+      "dog names",
+      "dogs",
+      "pets"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Multi-Use Trail Entrances",
+    "tags": [
+      "bike paths",
+      "bike trails",
+      "cycling trails",
+      "trails"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Sidewalk Inventory",
+    "tags": [
+      "essential links",
+      "missing sidewalk",
+      "sidewalk",
+      "walkability"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Sexual Health Clinic Locations, Hours and Services",
+    "tags": [
+      "clinic",
+      "contraception",
+      "sexual health",
+      "std"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Human Rights Office Service Statistics",
+    "tags": [
+      "human rights",
+      "human rights office"
+    ],
+    "topics": [
+      "City government",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Cultural Spaces",
+    "tags": [
+      "art gallery",
+      "cultural space for rent",
+      "performances"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Parking Ticket Trials",
+    "tags": [
+      "parking court",
+      "parking tickets",
+      "tickets",
+      "trial"
+    ],
+    "topics": [
+      "Transportation",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Automatic External Defibrillators (AED) Locations",
+    "tags": [
+      "aed",
+      "automatic external defibrillators",
+      "defibrillators",
+      "heart"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Public safety",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Heritage Shoreline Evolution",
+    "tags": [
+      "historical shoreline",
+      "shoreline",
+      "toronto shoreline"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "settlement_patterns"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Elections - Voter Statistics",
+    "tags": [
+      "elections",
+      "voter statistics"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Bicycle Counts",
+    "tags": [
+      "bicycles",
+      "bike lanes",
+      "cycling"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Taxicab Stand Locations",
+    "tags": [
+      "taxi",
+      "taxicab stand"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Casino Survey Results",
+    "tags": [
+      "casino survey"
+    ],
+    "topics": [
+      "City government",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Licensed Dogs and Cats Reports",
+    "tags": [
+      "animals",
+      "cat reports",
+      "cats",
+      "dog reports",
+      "dogs",
+      "fsa",
+      "pets"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Archives Name Authorities - List of Authorized Names",
+    "tags": [
+      "archives",
+      "archives authority database",
+      "controlled vocabulary"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Ontario Early Years Centres (Toronto)",
+    "tags": [
+      "ontario early years centre"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Web Map Services",
+    "tags": [
+      "ortho imagery",
+      "web map services",
+      "web service"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Watermain Breaks",
+    "tags": [
+      "watermain",
+      "watermain break"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Water",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Water Billing by Ward",
+    "tags": [
+      "consumption",
+      "water billing"
+    ],
+    "topics": [
+      "Finance",
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Turn Restrictions",
+    "tags": [
+      "turn restriction"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Toronto Public Library Branch Locations",
+    "tags": [
+      "branch location",
+      "library",
+      "library location"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Supportive Housing Locations, City Operated",
+    "tags": [
+      "long-term care",
+      "supportive housing"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Sports & Recreation - Program Enrollment, Drop-In Usage and Permit Activity Summary",
+    "tags": [
+      "drop-in",
+      "program enrollment",
+      "recreation",
+      "sports"
+    ],
+    "topics": [
+      "Community services",
+      "Parks and recreation",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Solid Waste Management Services - Transfer Station Locations",
+    "tags": [
+      "garbage depot",
+      "transfer station",
+      "waste depot"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services",
+      "Garbage and recycling"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Solid Waste Management Districts",
+    "tags": [
+      "garbage collection area",
+      "garbage route",
+      "waste collection area"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Garbage and recycling"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Solid Waste Daytime Curbside Collection Areas",
+    "tags": [
+      "daytime curbisde collection area",
+      "garbage",
+      "garbage pick-up location"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Garbage and recycling"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Solid Waste - Recycled Material Sales Revenue",
+    "tags": [
+      "recycled materials",
+      "sales revenue",
+      "solid waste"
+    ],
+    "topics": [
+      "Finance",
+      "Garbage and recycling"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Social Housing - Wait List , Rent Bank Loans Granted and Shelter Use Summary",
+    "tags": [
+      "rent bank loan",
+      "social housing",
+      "waitlist"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Shelter Profile Information",
+    "tags": [
+      "housing",
+      "profile",
+      "shelter"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Regional Municipal Boundary",
+    "tags": [
+      "regional boundary",
+      "toronto boundary"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Priority Investment Neighbourhoods",
+    "tags": [
+      "investment",
+      "priority investment neighbourhood"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping",
+      "Business"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Parks",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Environment",
+      "Parks and recreation",
+      "Garbage and recycling"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Parking Tickets",
+    "tags": [
+      "parking",
+      "parking ticket"
+    ],
+    "topics": [
+      "Transportation",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "One Way Streets",
+    "tags": [
+      "one way streets"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Municipal Land Transfer Tax Revenue Summary",
+    "tags": [
+      "land transfer tax",
+      "municipal land trasnfer tax"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Long-Term Care Locations, City Operated",
+    "tags": [
+      "long term care",
+      "senior home"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Inventory of Applications",
+    "tags": [
+      "applications",
+      "systems"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Hostel Services: Homeless Shelter Locations",
+    "tags": [
+      "homeless shelter",
+      "hostel"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Freedom of Information Requests Summary",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Forest and Land Cover",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Transportation",
+      "Environment",
+      "Water"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Drop-In Locations (Toronto Drop-In Network Members - TDIN)",
+    "tags": [
+      "drop-in centre",
+      "drop-in location",
+      "homeless",
+      "tdin"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Daily Bread Food Banks - Client Visits by Month",
+    "tags": [
+      "daily bread food bank",
+      "food bank"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Core Service Review - Quantitative Data",
+    "tags": [
+      "core service review",
+      "public consultation"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Core Service Review - Qualitative Data",
+    "tags": [
+      "core service review",
+      "public consultation"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Consulting Services Expenditures",
+    "tags": [
+      "budget",
+      "consultants",
+      "expenditure",
+      "spending"
+    ],
+    "topics": [
+      "City government",
+      "Finance",
+      "Business"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Clerks - Record Classification System - Internally Approved (RSMT)",
+    "tags": [
+      "internally approved",
+      "record classification system"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Clerks - Record Classification System - Authoritative Source (RSMT)",
+    "tags": [
+      "authoritative source",
+      "records series management tool"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Clerk's Directory of Record for Record Series Management Tool (RSMT)",
+    "tags": [
+      "records classification system",
+      "rsmt"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "City Subject Thesaurus",
+    "tags": [
+      "search results",
+      "tag",
+      "thesaurus",
+      "vocabulary"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Bikeways",
+    "tags": [
+      "bicycle lane",
+      "bicycle path",
+      "bicycle route",
+      "bike lane",
+      "bike pathway",
+      "bike route",
+      "bike trail",
+      "bikeway network"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Bicycle Post and Ring Locations",
+    "tags": [
+      "bicycle ring",
+      "bicycle stand",
+      "bike rack"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Bicycle Count and Locations",
+    "tags": [
+      "bicycle",
+      "bicycle count",
+      "cyclist",
+      "helmet"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "311 Service Request Codes",
+    "tags": [
+      "31",
+      "service requests"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "311 - Open311 API Calls for Service Requests",
+    "tags": [
+      "api",
+      "open311",
+      "service request"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Population Health Status Indicators",
+    "tags": [],
+    "topics": [
+      "Health"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "City Budget Pre-Budget Consultation",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Neighbourhood Intensification Estimates to 2051",
+    "tags": [],
+    "topics": [
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Count Yourself In Workforce Survey",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Business"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Community Grants Allocations",
+    "tags": [
+      "community partnership",
+      "grants"
+    ],
+    "topics": [
+      "City government",
+      "Community services",
+      "Finance",
+      "Culture and tourism",
+      "Business"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Land Ambulance Response Time Standard",
+    "tags": [
+      "ambulance",
+      "emergency",
+      "paramedic"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Pre-Hospital Emergency Care Performance Metrics",
+    "tags": [
+      "ambulance",
+      "paramedic"
+    ],
+    "topics": [
+      "Public safety",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Specialized Patient Transports by Paramedics",
+    "tags": [
+      "ambulance",
+      "paramedic"
+    ],
+    "topics": [
+      "Public safety",
+      "Health"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Free Floating Carshare Program",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Transportation",
+      "Environment"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Travel Times - Bluetooth",
+    "tags": [
+      "highway",
+      "speed",
+      "street",
+      "travel times"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Chinatown Tomorrow Planning Initiative Consultation",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Bike Share Toronto",
+    "tags": [
+      "bike share",
+      "bike share station",
+      "bike share terminal"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Z39.50 - Library Catalogue",
+    "tags": [
+      "library",
+      "library catalogue",
+      "z3950"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "TTC Subway Shapefiles",
+    "tags": [],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Agency Survey Results on COVID-19 Recovery And Rebuild",
+    "tags": [
+      "TORR",
+      "covid19",
+      "pandemic",
+      "survey"
+    ],
+    "topics": [
+      "City government",
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Competitive Contracts",
+    "tags": [],
+    "topics": [
+      "Business"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Non Competitive Contracts",
+    "tags": [],
+    "topics": [
+      "Business"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "TTC Ridership Analysis",
+    "tags": [
+      "ttc",
+      "ttc ridership",
+      "ttc rides"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Waste Wizard",
+    "tags": [
+      "garbage lookup",
+      "waste wizard"
+    ],
+    "topics": [
+      "Garbage and recycling"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "TransformTO Community Feedback",
+    "tags": [
+      "energy",
+      "environment",
+      "greenhouse gas emission",
+      "low carbon",
+      "transformto"
+    ],
+    "topics": [
+      "City government",
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Traffic and Parking By-Law Schedules",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Toronto Office of Recovery and Rebuild \u2013 Public Survey Results",
+    "tags": [
+      "TORR",
+      "city",
+      "public",
+      "survey"
+    ],
+    "topics": [
+      "City government",
+      "Public safety"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Toronto Economic Bulletin",
+    "tags": [
+      "economic",
+      "economy",
+      "gdp",
+      "labour market",
+      "toronto economic bulletin"
+    ],
+    "topics": [
+      "City government",
+      "Transportation",
+      "Business"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Rain Gauge Locations and Water Collected",
+    "tags": [
+      "precicipation",
+      "rain",
+      "rain gauge",
+      "storm water"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Environment",
+      "Water"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Lobbying Bylaw - Public Consultation on Amendments",
+    "tags": [
+      "lobbying bylaw"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Input from Roundtables, Public and Stakeholders on Recovery and Rebuild",
+    "tags": [
+      "TORR",
+      "covid19",
+      "discussions",
+      "health",
+      "meetings",
+      "submissions"
+    ],
+    "topics": [
+      "City government",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Hotel Association Member List for the Greater Toronto Area",
+    "tags": [
+      "hotel association"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Culture and tourism",
+      "Business"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Elections - School Ward",
+    "tags": [
+      "school electoral district",
+      "tcdsb wards",
+      "tdsb wards"
+    ],
+    "topics": [
+      "City government",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Elections - Advance Poll Voter Turnout",
+    "tags": [
+      "advance poll",
+      "elections",
+      "voter turnout"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Elections \u2013 Official Results",
+    "tags": [
+      "election results",
+      "elections",
+      "poll by poll results"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Doors Open Toronto 2019",
+    "tags": [],
+    "topics": [
+      "Culture and tourism"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Current Value Assessment (CVA)  Tax Impact Residential Properties",
+    "tags": [
+      "current value assessment",
+      "cva",
+      "cva tax"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "City of Toronto Act (COTA) Consultation, 2015",
+    "tags": [
+      "city of toronto act",
+      "cota"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Bridges, Elevated Roadways, and Culverts in Toronto",
+    "tags": [
+      "bridges",
+      "culverts",
+      "elevated roadways"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Bloor Street Bike Lanes Feedback Survey",
+    "tags": [
+      "bike lane",
+      "bloor street bike lane survey",
+      "cloor street",
+      "feedback",
+      "survey"
+    ],
+    "topics": [
+      "City government",
+      "Transportation",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Basement flooding by ward",
+    "tags": [
+      "basement flood",
+      "flood",
+      "flooding",
+      "sewage",
+      "sewer back-up",
+      "storm",
+      "water"
+    ],
+    "topics": [
+      "Water"
+    ],
+    "grade8_themes": [
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "10 Year Cycling Network Plan \u2013 Trails (2016)",
+    "tags": [
+      "bicycle",
+      "bicycle trails",
+      "cycling",
+      "cycling network plan",
+      "trails"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "10 Year Cycling Network Plan \u2013 On-Street (2016)",
+    "tags": [
+      "bicycle",
+      "cycling",
+      "cycling network plan",
+      "on-street"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Budget - Capital Budget & Plan By Ward (10 Year Recommended)",
+    "tags": [
+      "budget",
+      "captial budget"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Elections - Campaign Contributions",
+    "tags": [
+      "financial support"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Near-term Cycling Program",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Public Notices",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Major City-Wide Cycling Routes",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Triangular Irregular Network (TIN)",
+    "tags": [
+      "elevation data",
+      "triangular irregular network"
+    ],
+    "topics": [
+      "Development and infrastructure",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Rent Bank  Access Centres",
+    "tags": [
+      "rent bank access centre"
+    ],
+    "topics": [
+      "Community services",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Social Housing Unit Density by Neighbourhoods",
+    "tags": [
+      "co-ops",
+      "density",
+      "housing connections",
+      "social housing",
+      "tchc",
+      "units"
+    ],
+    "topics": [
+      "Community services",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Council Business Travel Expenses",
+    "tags": [
+      "council",
+      "councillor travel expense",
+      "travel expense"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Head of Household",
+    "tags": [
+      "head of household",
+      "ontario works"
+    ],
+    "topics": [
+      "City government",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Events at Nathan Phillips Square",
+    "tags": [],
+    "topics": [
+      "Culture and tourism",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "TTC BusTime Real-Time Next Vehicle Arrival (NVAS)",
+    "tags": [],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "HR Number of Job Applications Received per External Advertisement",
+    "tags": [],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Solicitations for the Purchase of Goods and Services",
+    "tags": [
+      "call documents",
+      "goods and services"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Child Care -  Licensed Child Care Spaces",
+    "tags": [
+      "child care",
+      "day care",
+      "licensed child care"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Ward Profiles (25-Ward Model)",
+    "tags": [
+      "2016 census",
+      "2018-2022",
+      "25-ward",
+      "ward profiles"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Community Planning Boundaries",
+    "tags": [
+      "city planning",
+      "community planning",
+      "planners"
+    ],
+    "topics": [
+      "Development and infrastructure",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Hate Activity Policy Survey",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Development Charge Revenues",
+    "tags": [],
+    "topics": [
+      "Business",
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "City Initiated Appeals To Property Assessment",
+    "tags": [
+      "appeal",
+      "property assessment",
+      "property assessment appeal"
+    ],
+    "topics": [
+      "City government",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Court Services Customer Satisfaction Survey",
+    "tags": [
+      "customer satisfaction survey",
+      "customer service",
+      "poa",
+      "survey"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Court Services Customer Satisfaction Survey Results 2017",
+    "tags": [
+      "court services",
+      "customer satisfaction",
+      "survey"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Community Council Boundaries Survey Results",
+    "tags": [
+      "boundaries",
+      "community councils",
+      "consultation",
+      "survey"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Wellbeing Toronto - Youth Services",
+    "tags": [
+      "211",
+      "aboriginal",
+      "advocacy",
+      "community",
+      "disability",
+      "education",
+      "employment",
+      "eviction",
+      "financial support",
+      "findhelp",
+      "housing",
+      "justice",
+      "refugee",
+      "school",
+      "youth service"
+    ],
+    "topics": [
+      "Community services",
+      "Health",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Toronto - Transportation",
+    "tags": [
+      "public transit",
+      "transportation",
+      "ttc",
+      "wellbeing"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Wellbeing Toronto - Safety",
+    "tags": [
+      "accident",
+      "ambulance",
+      "crime",
+      "emergency",
+      "fire",
+      "paramedic",
+      "police",
+      "safety",
+      "violence"
+    ],
+    "topics": [
+      "Community services",
+      "Health",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "public_services_civic_systems"
+    ]
+  },
+  {
+    "title": "Wellbeing Toronto - Recreation",
+    "tags": [
+      "parks and recreation",
+      "permit",
+      "rec centre",
+      "rec program",
+      "recreation"
+    ],
+    "topics": [
+      "Community services",
+      "Parks and recreation",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Wellbeing Toronto - Housing",
+    "tags": [
+      "affordable housing",
+      "home price",
+      "housing",
+      "real estate",
+      "shelther"
+    ],
+    "topics": [
+      "Business",
+      "Community services",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Wellbeing Toronto - Health",
+    "tags": [
+      "cancer screening",
+      "dine safe",
+      "fertility rate",
+      "health inspections",
+      "mortality rate",
+      "nutrition",
+      "student nutrition"
+    ],
+    "topics": [
+      "Health",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Toronto - Environment",
+    "tags": [
+      "carcinogenic scores",
+      "city green retrofits",
+      "green rebate programs",
+      "green spaces",
+      "pollutants",
+      "tree cover"
+    ],
+    "topics": [
+      "Environment",
+      "Health",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Wellbeing Toronto - Education",
+    "tags": [
+      "education",
+      "tcdsb",
+      "tdsb"
+    ],
+    "topics": [
+      "City government",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Wellbeing Toronto - Economics",
+    "tags": [
+      "economy"
+    ],
+    "topics": [
+      "Business",
+      "City government",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "economic_activity",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Wellbeing Toronto - Demographics: TaxFiler Indicators",
+    "tags": [
+      "demographic",
+      "tax filer"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Wellbeing Toronto - Demographics: NHS Indicators",
+    "tags": [
+      "census",
+      "education",
+      "ethnocultural diversity",
+      "housing",
+      "immigration",
+      "income",
+      "labour",
+      "nathional household survey"
+    ],
+    "topics": [
+      "City government",
+      "Community services",
+      "Culture and tourism",
+      "Development and infrastructure"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Wellbeing Toronto - Aboriginal Service Organizations",
+    "tags": [
+      "aboriginal service"
+    ],
+    "topics": [
+      "Community services",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "2013 Street Needs Assessment Results",
+    "tags": [
+      "homeless",
+      "housing",
+      "point-in time count",
+      "street needs assessment"
+    ],
+    "topics": [
+      "City government",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "2018 Street Needs Assessment Results",
+    "tags": [
+      "homeless",
+      "housing",
+      "point-in time count",
+      "street needs assessment"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "2021 Street Needs Assessment Results",
+    "tags": [],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Ward Profiles, 2018 (47-Ward Model)",
+    "tags": [
+      "47 wards",
+      "census",
+      "ward profiles"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Ward Profiles, 2014-2018 Wards (44-Ward Model)",
+    "tags": [
+      "demographics",
+      "ward",
+      "ward profiles"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "social_inequality"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Multilingual Policy - Language Survey",
+    "tags": [
+      "language",
+      "multi-lingual policy"
+    ],
+    "topics": [
+      "City government",
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Participatory Budgeting Pilot",
+    "tags": [
+      "community engagement",
+      "participatory budget"
+    ],
+    "topics": [],
+    "grade8_themes": [
+      "settlement_patterns"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Pan Am-Parapan Am Venues - TO2015",
+    "tags": [
+      "pan am",
+      "parapan am"
+    ],
+    "topics": [
+      "Culture and tourism",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Vehicles Utilizing Green Technology",
+    "tags": [
+      "green technology",
+      "green vehicle"
+    ],
+    "topics": [
+      "Environment",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "School Safety Zone Watch Your Speed Program \u2013 Detailed Speed Counts",
+    "tags": [
+      "Vision zero",
+      "driver",
+      "saftey",
+      "speed"
+    ],
+    "topics": [
+      "Public safety",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Mobile Watch Your Speed Program \u2013 Detailed Speed Counts",
+    "tags": [
+      "LED",
+      "Saftey",
+      "Vision zero",
+      "driver",
+      "driving",
+      "radar",
+      "signs",
+      "speed"
+    ],
+    "topics": [
+      "Public safety",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Traffic Signal Vehicle and Pedestrian Volumes",
+    "tags": [
+      "car count",
+      "car volume",
+      "pedestrian volume",
+      "traffic count",
+      "traffic movement"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Unclaimed Deposits",
+    "tags": [
+      "deposits",
+      "refund"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Live Green Toronto Membership Card Businesses",
+    "tags": [
+      "green business",
+      "live green"
+    ],
+    "topics": [
+      "Business"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Public Engagement Review Survey",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Credit Balance - Property Tax",
+    "tags": [
+      "credits",
+      "property tax",
+      "refund"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Elections \u2013 Unofficial Results",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Elections \u2013 Unofficial Results",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Historic Rain Gauge Locations and Precipitation",
+    "tags": [
+      "precipitation",
+      "rain",
+      "storm",
+      "water"
+    ],
+    "topics": [
+      "Development and infrastructure",
+      "Environment",
+      "Locations and mapping",
+      "Water"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Realtime Feed of Searches Conducted on torontopubliclibrary.ca",
+    "tags": [
+      "library",
+      "search"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Long-term Financial Plan Public Consultation",
+    "tags": [
+      "long-term financial plan"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Woodbine Racetrack Casino Consultation 2015",
+    "tags": [
+      "casino",
+      "consultation",
+      "woodbrine racetrack"
+    ],
+    "topics": [
+      "City government",
+      "Culture and tourism"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "E-Bike Survey Response Results",
+    "tags": [
+      "e-bike"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Tax Rebates - Tax Exemptions",
+    "tags": [
+      "charity rebate",
+      "ethno-cultural centre rebate",
+      "heritage rebate",
+      "tax exemption",
+      "tax rebate",
+      "veteran clubhouse rebate"
+    ],
+    "topics": [
+      "City government",
+      "Finance"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Climate Perception Study",
+    "tags": [],
+    "topics": [
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "TTC  - Ridership Revenues",
+    "tags": [
+      "ridership",
+      "ttc revenue"
+    ],
+    "topics": [
+      "Finance",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "TTC - Monthly Ridership",
+    "tags": [
+      "monthly ridership",
+      "ridership",
+      "ttc",
+      "ttc rides"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "TTC - Average Weekday Ridership",
+    "tags": [
+      "ttc",
+      "ttc passenger",
+      "weekday ridership"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "TTC Annual Passenger Rides Peak (000s)",
+    "tags": [
+      "annual ridership",
+      "ttc",
+      "ttc annual rides"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "TTC - Annual Passenger Rides Non-Peak (000s)",
+    "tags": [
+      "non-peak hours",
+      "ttc passenger rides"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Transportation Division Bridge Data",
+    "tags": [
+      "elevated structure",
+      "pedestrian bridge",
+      "rail bridge",
+      "road bridge"
+    ],
+    "topics": [
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Recreational Drop in Programs",
+    "tags": [
+      "aquafit",
+      "recreation",
+      "skating",
+      "swimming"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Public Art and Monuments",
+    "tags": [
+      "monument",
+      "public art"
+    ],
+    "topics": [
+      "Culture and tourism",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Municipal Licensing and Standards - Business Licence Renewals and New Issues Summary",
+    "tags": [
+      "business licence",
+      "renewal"
+    ],
+    "topics": [
+      "Business",
+      "Permits and licenses"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "HR Total General Job Applications Submitted Online",
+    "tags": [],
+    "topics": [],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Heat Alerts and Extreme Heat Alerts",
+    "tags": [
+      "extreme heat alert",
+      "heat",
+      "weather"
+    ],
+    "topics": [
+      "Health",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Flood Reporting Noted by Toronto Water Districts",
+    "tags": [
+      "basement flood",
+      "floods",
+      "sewer blockage",
+      "storm"
+    ],
+    "topics": [
+      "Environment",
+      "Locations and mapping",
+      "Water"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Fire Services Incident Data",
+    "tags": [
+      "fire incidents",
+      "fire services"
+    ],
+    "topics": [
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "quality_of_life"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Child Care - Wait List for a Fee Subsidy",
+    "tags": [
+      "child care",
+      "child care subsidy",
+      "child care waitlist"
+    ],
+    "topics": [
+      "Community services"
+    ],
+    "grade8_themes": [
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "TransformTO Net Zero Strategy Public Consultation \u2013 Resident Survey",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Environment"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Road Restrictions",
+    "tags": [
+      "road restrictions"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "TTC Ridership - Subway-Scarborough RT Station Usage",
+    "tags": [
+      "scarborough rt",
+      "subway",
+      "ttc",
+      "ttc station"
+    ],
+    "topics": [
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Ravine & Natural Feature Protection area",
+    "tags": [
+      "environment",
+      "natural feature",
+      "ravine",
+      "trees"
+    ],
+    "topics": [
+      "City government",
+      "Environment",
+      "Locations and mapping",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Topographic Mapping \u2013 Treed Area",
+    "tags": [],
+    "topics": [
+      "Environment",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Solid Waste In-Park Assets",
+    "tags": [
+      "garbage bins",
+      "recycling bins",
+      "solid waste assets",
+      "waste bin"
+    ],
+    "topics": [
+      "Garbage and recycling",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Registered Residential & Non-Residential Condominiums",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Natural Heritage System",
+    "tags": [
+      "city planning",
+      "land use",
+      "natural heritage",
+      "official plan"
+    ],
+    "topics": [
+      "City government",
+      "Development and infrastructure",
+      "Environment",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "environmental_monitoring",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "King St. Transit Pilot - Bluetooth Travel Time Segments",
+    "tags": [
+      "king st pilot",
+      "traffic",
+      "transportation"
+    ],
+    "topics": [
+      "City government",
+      "Development and infrastructure",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Traffic Counts - Cycling",
+    "tags": [],
+    "topics": [
+      "Locations and mapping",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Toronto Office of Recovery and Rebuild Survey for Individuals - Vulnerable Populations",
+    "tags": [
+      "TORR",
+      "covid19",
+      "pandemic",
+      "surveys",
+      "vulnerable"
+    ],
+    "topics": [
+      "City government",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "settlement_patterns"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Toronto Office of Recovery and Rebuild Story Form \u2013 Vulnerable Populations",
+    "tags": [
+      "TORR",
+      "covid19",
+      "outreach",
+      "pandemic",
+      "residents",
+      "story",
+      "survey",
+      "vulnerable"
+    ],
+    "topics": [
+      "City government",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "settlement_patterns"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Toronto Office of Recovery and Rebuild Group Discussion - Vulnerable Populations",
+    "tags": [
+      "TORR",
+      "covid19",
+      "outreach",
+      "pandemic",
+      "phone survey",
+      "residents",
+      "vulnerable"
+    ],
+    "topics": [
+      "City government",
+      "Public safety"
+    ],
+    "grade8_themes": [
+      "settlement_patterns"
+    ],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Special Committee on Governance -- Consultation with Neighbourhood Associations  -- Workshop",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Signs - Third Party Sign Inventory",
+    "tags": [
+      "sign inventory",
+      "third party signs"
+    ],
+    "topics": [
+      "Business",
+      "Locations and mapping"
+    ],
+    "grade8_themes": [
+      "economic_activity"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Seniors Survey 2017",
+    "tags": [
+      "older adults",
+      "senior citizens",
+      "seniors",
+      "seniors strategy"
+    ],
+    "topics": [
+      "Community services",
+      "Health"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "quality_of_life",
+      "social_inequality"
+    ],
+    "grade11_themes": []
+  },
+  {
+    "title": "Reducing Single Use and Takeaway Items",
+    "tags": [],
+    "topics": [
+      "City government",
+      "Environment",
+      "Garbage and recycling"
+    ],
+    "grade8_themes": [
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability",
+      "quality_of_life"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring"
+    ]
+  },
+  {
+    "title": "Recreational Courses Historical Data",
+    "tags": [
+      "courses",
+      "parks and recreation",
+      "rec program",
+      "recreation"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "spatial_mapping_location_data"
+    ]
+  },
+  {
+    "title": "Special Committee on Governance -- Public Consultations on Civic Governance and decision making",
+    "tags": [],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": [
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Special Committee on Governance -- Public Consultation on Governance and Decision Making -- Survey #1",
+    "tags": [
+      "Council",
+      "Decision-making",
+      "Goverment"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Parking Lot Facilities",
+    "tags": [
+      "parking lot"
+    ],
+    "topics": [
+      "Locations and mapping",
+      "Parks and recreation",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "spatial_mapping_location_data",
+      "urban_infrastructure_systems"
+    ]
+  },
+  {
+    "title": "Open Government Staff Survey",
+    "tags": [
+      "open government"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "Open Government Public Survey",
+    "tags": [
+      "open government"
+    ],
+    "topics": [
+      "City government"
+    ],
+    "grade8_themes": [],
+    "grade11_themes": []
+  },
+  {
+    "title": "King St. Transit Pilot - Detailed Traffic & Pedestrian Volumes",
+    "tags": [
+      "king st pilot",
+      "traffic",
+      "transportation"
+    ],
+    "topics": [
+      "City government",
+      "Development and infrastructure",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "King St. Transit Pilot - Detailed Bluetooth Travel Time",
+    "tags": [
+      "king st pilot",
+      "traffic",
+      "transportation"
+    ],
+    "topics": [
+      "City government",
+      "Development and infrastructure",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "King Street Pilot - Disaggregate headway and travel time",
+    "tags": [
+      "king stpilot",
+      "transportation",
+      "ttc"
+    ],
+    "topics": [
+      "City government",
+      "Development and infrastructure",
+      "Transportation"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "urban_growth_infrastructure"
+    ],
+    "grade11_themes": [
+      "urban_infrastructure_systems",
+      "land_use_development"
+    ]
+  },
+  {
+    "title": "Humber Bay Parks Survey Results Data",
+    "tags": [
+      "humber bay park"
+    ],
+    "topics": [
+      "City government",
+      "Environment",
+      "Parks and recreation"
+    ],
+    "grade8_themes": [
+      "settlement_patterns",
+      "environmental_impact_of_settlement",
+      "resource_use_sustainability"
+    ],
+    "grade11_themes": [
+      "environmental_monitoring",
+      "land_use_development"
+    ]
+  }
+]
