@@ -82,11 +82,11 @@ def main():
         title = ds["title"]
 
         for theme in ds["grade8_themes"]:
-            if len(grade8_summary[theme]) < 5:
+            if len(grade8_summary[theme]) < 5: # prints out first 5 matching datasets, change if you want to see more
                 grade8_summary[theme].append(title)
 
         for theme in ds["grade11_themes"]:
-            if len(grade11_summary[theme]) < 5:
+            if len(grade11_summary[theme]) < 5: # as above
                 grade11_summary[theme].append(title)
 
     print("\nGRADE 8 THEMES → DATASETS")
