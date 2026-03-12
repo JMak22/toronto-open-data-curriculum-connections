@@ -1,0 +1,90 @@
+GRADE 8 THEMES → DATASETS
+-------------------------
+
+quality_of_life
+  - Outbreaks in Toronto Healthcare Institutions
+  - Toronto Bids Solicitations
+  - Licensed Dogs and Cats
+  - Daily Shelter & Overnight Service Occupancy & Capacity
+  - Mental Health Act Apprehensions
+
+economic_activity
+  - Toronto Bids Solicitations
+  - Temporary Extension and Special Occasion Permit Endorsements for Liquor Licences
+  - Polls conducted by the City
+  - Historical Toronto Police Operating Budget
+  - Short Term Rentals Registration
+
+resource_use_sustainability
+  - Water Valves
+  - Water Hydrants
+  - Water Fittings
+  - Rain Gauge Locations and Precipitation
+  - Non Regulated Lead Sample
+
+urban_growth_infrastructure
+  - Toronto Island Ferry Ticket Counts
+  - Road Reconstruction Program
+  - Road Resurfacing Program
+  - Sidewalk Construction Program
+  - Traffic Signal Timing
+
+social_inequality
+  - Licensed Dogs and Cats
+  - Daily Shelter & Overnight Service Occupancy & Capacity
+  - Police Annual Statistical Report - Regulated Interactions Demographics
+  - Highrise Residential Fire Inspection Results
+  - Tennis Courts Facilities
+
+settlement_patterns
+  - Road Reconstruction Program
+  - Road Resurfacing Program
+  - Sidewalk Construction Program
+  - Highrise Residential Fire Inspection Results
+  - Building Permits - Cleared Permits
+
+environmental_impact_of_settlement
+  - Non Regulated Lead Sample
+  - Topographic Mapping – Physical location of trees
+  - 311 Service Requests - Customer Initiated
+  - Solid Waste Collection Schedule
+  - Area Speed Limit Reductions
+
+GRADE 11 THEMES → DATASETS
+--------------------------
+
+spatial_mapping_location_data
+  - Water Valves
+  - Water Hydrants
+  - Water Fittings
+  - Temporary Extension and Special Occasion Permit Endorsements for Liquor Licences
+  - Rain Gauge Locations and Precipitation
+
+urban_infrastructure_systems
+  - Toronto Island Ferry Ticket Counts
+  - Road Reconstruction Program
+  - Road Resurfacing Program
+  - Sidewalk Construction Program
+  - Traffic Signal Timing
+
+land_use_development
+  - Road Reconstruction Program
+  - Road Resurfacing Program
+  - Sidewalk Construction Program
+  - Highrise Residential Fire Inspection Results
+  - Building Permits - Cleared Permits
+
+public_services_civic_systems
+  - Historical Toronto Police Operating Budget
+  - Police Annual Statistical Report - Traffic Collisions
+  - Persons in Crisis Calls for Service Attended
+  - Mental Health Act Apprehensions
+  - Bicycle Thefts
+
+environmental_monitoring
+  - Non Regulated Lead Sample
+  - Green Spaces
+  - Topographic Mapping – Physical location of trees
+  - Area Speed Limit Reductions
+  - SolarTO
+
