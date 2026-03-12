@@ -27,10 +27,13 @@ The dataset metadata was downloaded from the Toronto Open Data API on March 12, 
 
 # Repository contents
 
-- grade8_themes.py - keyword dictionary
-- grade11_themes.py - keyword dictionary
-- toronto_datasets_trimmed.json - simplified dataset metadata used for the analysis
-- cluster_datasets_by_theme.py - scans the dataset metadata and creates connections with the keyword dictionaries
+- ```grade8_themes.py``` - keyword dictionary
+- ```grade11_themes.py``` - keyword dictionary
+- ```toronto_datasets_trimmed.json``` - simplified dataset metadata used for the analysis
+- ```cluster_datasets_by_theme.py``` - scans the dataset metadata and creates connections with the keyword dictionaries
+- ```console output - sample connections.txt``` the console output of the above. Note it may not give the "best fit" datasets due to the limitations of this experiment.
+- ```clustered_datasets.json``` is the output of the above code, given the simplified dataset metadata file, also above
+- ```trim_datasets.py``` will slim down a full download of the metadata available through the City of Toronto Open Data API
 
 # Running the script
 
